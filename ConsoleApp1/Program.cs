@@ -8,6 +8,8 @@
         string name = Console.ReadLine();
 
         Console.WriteLine(name);
+        Console.WriteLine(name);
+        Console.WriteLine(name);
 
         
 
