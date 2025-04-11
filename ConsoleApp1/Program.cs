@@ -10,6 +10,7 @@
         Console.WriteLine(name);
 
         var number = Console.ReadLine();
+        Console.WriteLine(number);
 
     }
 }
