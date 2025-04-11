@@ -5,5 +5,7 @@
     {
 
 
+        string name = Console.ReadLine();
+
     }
 }
