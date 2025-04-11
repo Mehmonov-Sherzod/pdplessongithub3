@@ -9,5 +9,7 @@
 
         Console.WriteLine(name);
 
+        var number = Console.ReadLine();
+
     }
 }
